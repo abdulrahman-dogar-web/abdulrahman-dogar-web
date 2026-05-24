@@ -98,11 +98,6 @@ I specialize in combining **technology + creativity + marketing** to build power
 
 ---
 
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRahmanDogar&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 

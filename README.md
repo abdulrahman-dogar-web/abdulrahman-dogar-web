@@ -18,6 +18,7 @@ I specialize in combining **technology + creativity + marketing** to build power
 
 💡 My main focus areas:
 
+- 💻 Vibe Coding  
 - 💻 Frontend Development  
 - 📢 Digital Marketing & Meta Ads  
 - 🎨 Creative UI / Visual Design  
@@ -93,17 +94,7 @@ I specialize in combining **technology + creativity + marketing** to build power
 ✔ Designed creative digital content  
 ✔ Combining development with marketing strategies  
 
----
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulRahmanDogar&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=AbdulRahmanDogar&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
 
 ---
 
